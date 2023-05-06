@@ -9,7 +9,7 @@
   "author": "Vera Palashchenko",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.24.7",
+    "browser-sync": "^2.29.1",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^6.0.0",
     "gulp-imagemin": "^4.1.0",
